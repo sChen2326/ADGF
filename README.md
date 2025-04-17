@@ -1,4 +1,4 @@
-# ADGF
+# Adaptive Dynamic Guided Image Filtering for Edge Preservation and Structure Extraction
 
 The project of Adaptive Dynamic Guided Image Filtering for Edge Preservation and Structure Extraction.
 
